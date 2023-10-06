@@ -1,0 +1,6 @@
+2023-09-05 17:42:56 INFO Test 1 starting (UI)
+2023-09-05 17:42:57 INFO We entered login in the field ('xpath', '/html/body/div/main/div/div/div/form/div[1]/label/input')
+2023-09-05 17:42:58 INFO We entered password in the field ('xpath', '//*[@id="login"]/div[2]/label/input')
+2023-09-05 17:43:00 INFO We clicked on the login button ('css selector', 'button')
+2023-09-05 17:43:01 INFO We clicked on the button ABOUT ('xpath', '//*[@id="app"]/main/nav/ul/li[1]')
+2023-09-05 17:43:02 INFO We find size 32px of header ('css selector', 'h1.svelte-z9xc0')
